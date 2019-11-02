@@ -6,7 +6,7 @@ cryptography==2.7
 future==0.17.1
 idna==2.8
 joblib==0.13.2
-nltk==3.4.4
+nltk==3.4.5
 numpy==1.17.0
 pycparser==2.19
 pyTelegramBotAPI==3.6.6
